@@ -1,4 +1,5 @@
-<img src = "https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=JAVA101&descAlign=59&section=header">
+<p align>
+  <img src = "https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=JAVA101&descAlign=59&section=header">
 
 
 

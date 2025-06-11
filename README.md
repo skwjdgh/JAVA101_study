@@ -2,11 +2,11 @@
 <h1 align="center">
   
   <a href="https://github.com/skwjdgh">
-    <img align="center" src="https://img.shields.io/badge/goto-Main-green.svg" />
+    <img align="center" src="https://img.shields.io/badge/goto-Main-green.svg" height="40"/>
   </a>
 
   <a href="https://github.com/skwjdgh/Back">
-    <img align="center" src="https://img.shields.io/badge/goto-Back-green.svg" />
+    <img align="center" src="https://img.shields.io/badge/goto-Back-green.svg" height="40"/>
   </a>
   
 </h1>

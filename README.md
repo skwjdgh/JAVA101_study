@@ -47,6 +47,6 @@ JAVA 기초부터 실습 등 정리되어 있습니다.
 ###  👨‍💻상단으로 돌아가기
 <h1 align="center">
         <a href="https://github.com/skwjdgh/JAVA101_study">
-    <img align="center" src="https://img.shields.io/badge/backto-Top-green.svg" />
+    <img align="center" src="https://img.shields.io/badge/backto-Top-green.svg" height="40"/>
   </a>
 </h1>
